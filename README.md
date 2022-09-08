@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+You can see the site in this URL: https://reacthookformns.pages.dev/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
